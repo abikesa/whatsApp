@@ -148,3 +148,80 @@ Controls/explains variance using hierarchical models, with longitudinal data as 
    - Scripts (Specific goal or task)
    - Tokens (Variables to generalize) 
    -  Pro vs Amateur
+
+   ---
+
+138. More inspiration from Jada:
+
+   - Chemistry/Homeostasis/Red Pill 💊
+      - eSensor/AMPK/mtDNA
+      - ANSs/Catecholamines 
+      - Unconscious 
+
+   - Psychology/Allostasis/Yellow Pill 💊 
+      - Cognition/Memory/Arousal
+      - PNS/Nicotinic; ANSp/Muscarinic
+      - Conscious; Unconscious 
+     
+   - Hierarchy/Sociostasis/Blue Pill 💎 
+      - Adenosine/Caffeine 
+      - GABA/Alcohol/Benzos
+      - Sedated/μ δ κ/Endorphins
+    
+   - Dionysian/Red 
+   - Tragic/Yellow
+   - Apollonian/Blue
+
+   ---
+
+140. Transmission of musical code:: Music in Western Civilization
+   - Tokens 
+      - Modes (Well-Tempered Clavier)
+      - Genres (Prelude & Fugue)
+      - Pantheon (J.S. Bach)
+      - Improvisation 
+      - Like Gospel Music Pros “inherit”
+    
+Mine’s a more engaging approach that can be compared to transmission of genes, culture, language, and knowledge as we see in training of generative transformative models
+
+141. We then build upon the body-mind-soul framework of the circadian rhythm to imply that the cortisol-growth hormone rhythm is really oxidative stress - antioxidant defense, and the basis of our perception of the aesthetic in tension (9,11,13) - release (diatonic)
+
+142. Strong correlation between the gain and loss of hydrogen atoms (H) and redox (reduction-oxidation) reactions. In redox reactions, hydrogen atoms are often involved because they carry electrons along with them. Here's how it works:
+
+- Oxidation: In oxidation, a molecule loses electrons. Frequently, this is accompanied by the loss of hydrogen atoms. When a molecule loses hydrogen atoms, it often results in the removal of electrons, contributing to the oxidized state.
+
+- Reduction: In reduction, a molecule gains electrons. This process often involves the addition of hydrogen atoms. When a molecule gains hydrogen atoms, it typically means it's gaining electrons and moving towards a reduced state.
+
+So, in many redox reactions, the transfer of electrons is linked to the transfer of hydrogen atoms. This interplay between electrons and hydrogen atoms is a fundamental aspect of redox chemistry in biological systems and plays a crucial role in various metabolic processes and energy production.
+
+   ---
+
+142. Verbs:
+   - To be vs To become 
+   - To do vs Being 
+   - To poke vs Silence 🤫
+
+143. Heroes:
+   - Chemistry: Nyege Reveler Frenzy
+      - Breach boundaries 
+      - `Reverence` of boundaries 
+      - And of heroes exploits 
+      - Dionysian
+      - Truth/Philosophy
+   - Psychology: Change Maker Acts
+      - Exemplars in strife as individual 
+      - `Inference` towards action 
+      - Template on which to start 
+      - Use of Both; Abuse is *One*
+      - Knowledge/Religion 
+   - Sociology: Truth Warriors ID
+      - Overcoming hierarchies 
+      - `Deliverance` from tyranny 
+      - Entire group at stake
+      - Apollonian 
+      - What you might call Ethics
+
+ - revolt:: recharge, reconnect with body
+ - Inspiration
+ - Worship
+        
