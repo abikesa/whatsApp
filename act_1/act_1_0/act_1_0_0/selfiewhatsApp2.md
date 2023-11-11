@@ -221,7 +221,8 @@ So, in many redox reactions, the transfer of electrons is linked to the transfer
       - Apollonian 
       - What you might call Ethics
 
+```
  - revolt:: recharge, reconnect with body
  - Inspiration
  - Worship
-        
+```     
